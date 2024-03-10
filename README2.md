@@ -1,4 +1,4 @@
-Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit.
+Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. 
 ----------
 Below is a step-by-step Python Django roadmap for one year along with learning resources for each step. Keep in mind that this roadmap is meant for individuals with some prior programming experience in Python and web development fundamentals.
 ----------
